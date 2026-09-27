@@ -5,7 +5,7 @@ O Desáfio é de replicar o design proposto.
 
 ###  Captura de tela
 
-![](./src/assets/WhatsApp%20Image%202026-09-27%20at%2000.38.09.jpeg)
+![](./src/assets/tela.jpeg)
 
 ###  Links
 
