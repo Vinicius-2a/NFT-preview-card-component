@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/NFT-preview-card-component",
+  base: "https://github.com/Vinicius-2a/NFT-preview-card-component/",
 })
